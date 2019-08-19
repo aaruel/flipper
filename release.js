@@ -3,7 +3,7 @@
  */
 
 // The workerSrc property shall be specified.
-PDFJS.workerSrc = "/assets/bower/pdfjs-dist/build/pdf.worker.js";
+PDFJS.workerSrc = "/flipper/pdf.worker.js";
 
 var pdfDoc = null,
     pageNum = 1,
